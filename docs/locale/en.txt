@@ -30,3 +30,8 @@ panorama_F16DFA81_F8D7_B4FD_41E4_C99B3F062AAC.label = Bedroom 2
 panorama_F16DFD32_F8D7_8C1F_4190_52958DE80102.label = Study
 panorama_F3AF65E2_F8EA_9C3F_41D6_BA1173BA50BA.label = Corridor 4
 panorama_F7974894_F936_941B_41EA_7E25EB8424AC.label = Back Block 2
+
+## Action
+
+### URL
+LinkBehaviour_EE7F4E4A_F92A_8C0F_41B4_58F814EAF520.source = http://www.rescuestation.org/
