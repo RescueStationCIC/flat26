@@ -1,0 +1,32 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Flat26
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_E9698C05_F97E_8C05_41DB_39D23E52FCE1.label = Corridor 4
+panorama_F16A3D16_F8D7_8C07_41D3_8C556FBC7E8C.label = Back Block cycle area
+panorama_F16A66BB_F8D7_9C0D_41BF_4E7573186A5B.label = Back block trees
+panorama_F16A7377_F8D7_B405_41D7_5C9B14500600.label = Back Block
+panorama_F16AF047_F8D6_B405_41EA_D9FFFD8BF31A.label = Lounge
+panorama_F16D0E83_F8D7_8CFD_41E8_A02F5B78F59B.label = Bathroom
+panorama_F16D33F5_F8D7_9405_419B_5EE1C283B004.label = Corridor 1
+panorama_F16D49B1_F8D6_B41D_41D0_FF72233DD37E.label = Kitchen
+panorama_F16D564E_F8D7_FC07_41EE_E58F6766F150.label = Bedroom 1
+panorama_F16D78EC_F8D7_940B_41E3_3C546ED06F02.label = Entrance
+panorama_F16DA552_F8D6_7C1F_41E9_FF5240B78F76.label = Corridor 2
+panorama_F16DBFB4_F8D7_8C1B_41E8_2EE4309F28CC.label = Lobby
+panorama_F16DFA81_F8D7_B4FD_41E4_C99B3F062AAC.label = Bedroom 2
+panorama_F16DFD32_F8D7_8C1F_4190_52958DE80102.label = Study
+panorama_F3AF65E2_F8EA_9C3F_41D6_BA1173BA50BA.label = Corridor 4
+panorama_F7974894_F936_941B_41EA_7E25EB8424AC.label = Back Block 2
