@@ -7,6 +7,10 @@ tour.name = Flat26
 
 ## Skin
 
+### Button
+Button_E09E6779_FB5D_FC0D_41E2_51A3C6D90FD7.label = FLOOR PLAN
+Button_E2088E99_FB6B_8C0D_41EE_BA36CFDBCD14.label = FLOOR PLAN
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
@@ -14,6 +18,7 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Title
+map_E81E531F_F9DA_B405_41ED_FF24519F7E6B.label = flat_26_floorplan
 panorama_E9698C05_F97E_8C05_41DB_39D23E52FCE1.label = Corridor 4
 panorama_F16A3D16_F8D7_8C07_41D3_8C556FBC7E8C.label = Back Block cycle area
 panorama_F16A66BB_F8D7_9C0D_41BF_4E7573186A5B.label = Back block trees
