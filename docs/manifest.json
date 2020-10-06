@@ -1,6 +1,5 @@
 {
  "name": "Flat26",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +37,8 @@
    "sizes": "180x180"
   }
  ],
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
